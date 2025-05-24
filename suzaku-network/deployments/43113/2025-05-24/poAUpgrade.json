@@ -1,0 +1,11 @@
+{
+  "PoASecurityModule": "0x20AB852be88C22f5202533D9522B168b351B6d54",
+  "UpgradedPoAProxy": "0x4Caf1386ce9Bb0b2Dd81972412e44a0263FA4908",
+  "churnPeriodSeconds": 3600,
+  "initialSecurityModuleMaxWeight": 1000000,
+  "l1ID": "0x1ed92663a12a0e16851b847d77c9abfe806ff7f089a220cd7ffb058be3737540",
+  "maximumChurnPercentage": 20,
+  "poAProxyAddress": "0x4Caf1386ce9Bb0b2Dd81972412e44a0263FA4908",
+  "proxyAdminOwnerAddress": "0x1b4399A7c97ae092fB4CCDc1598b2767ECB79652",
+  "validatorManagerOwnerAddress": "0x1b4399A7c97ae092fB4CCDc1598b2767ECB79652"
+}
